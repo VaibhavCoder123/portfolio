@@ -23,3 +23,35 @@ a:active{
     background-color: transparent;
     text-decoration: none;
 }
+#qq{
+    width: 45%;
+    height: 45%;
+    float: left;
+}
+#ww{
+    width: 45%;
+    height: 45%;
+    float: right;
+}
+#ee{
+    width: 45%;
+    height: 45%;
+    float: left;
+}
+#rr{
+    width: 45%;
+    height: 45%;
+    float: right;
+}
+.ab{
+    border: 5px solid purple;
+    background-color: magenta;
+}
+.ac{
+    border: 5px solid rgb(114, 0, 0);
+    background-color: rgb(237, 94, 94);
+}
+.ad{
+    border: 5px solid green;
+    background-color: lime;
+}
